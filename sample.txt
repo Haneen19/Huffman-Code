@@ -1,0 +1,1 @@
+This is a sample text file. It contains multiple lines and various characters. We will use this to test our Huffman coding implementation.
